@@ -23,6 +23,7 @@ body {
 
 ul {
     list-style: none;
+    font-size: 18px;
     padding: 0;
     margin: 0;
     margin-left: auto;
@@ -126,4 +127,32 @@ button {
 .quote-source {
     font-weight: 700;
     align-self: flex-end;
+}
+
+.sign-up-section {
+    background: #3882F6;
+    padding: 32px 64px;
+    border-radius: 4px;
+    margin: 64px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.call-to-action {
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.sign-up-request {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up-section button{
+    border: 1px solid #fff;
+}
+
+.sign-up-section a {
+    color: #F9FAF8;
 }
