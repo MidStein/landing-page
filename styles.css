@@ -108,3 +108,22 @@ button {
     max-width: 150px;
     text-align: center;
 }
+
+.quote-section {
+    background: #E5E7EB;
+    padding: 75px 275px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-source {
+    font-weight: 700;
+    align-self: flex-end;
+}
