@@ -1,1 +1,4 @@
 # landing-page
+The landing page of a website. This is the holy grail template of landing page of most modern websites. This attractive page is meant to give a great first impression to a new visitor. It consists of important information about the website along with relevant and catchy images. The page includes testimonials from other users, headers and footers with important links and finally a call to the visitor to sign up to the page.
+
+I am making this page as an excercise for my CSS and flexbox skills. After completing this project I will be confident enough to call myself intermediate level in CSS at least.
